@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74b04bfc-d685-4bff-8a0f-5a15da8a554a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Q1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Q1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Q1009.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2a9iMvtjVS7z97GDOINdaUSjqQx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,32 +36,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Q1000.executor": "Run",
-    "Application.Q1001.executor": "Run",
-    "Application.Q1008.executor": "Run",
-    "Application.Q1009.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1000.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1009.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="BaekJun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1009">
+  <component name="RunManager" selected="Application.Q1032">
     <configuration name="Q1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.Q1000" />
       <module name="Coding_Test_Java" />
@@ -102,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.Q1032" />
+      <module name="Coding_Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1032" />
         <item itemvalue="Application.Q1009" />
         <item itemvalue="Application.Q1001" />
         <item itemvalue="Application.Q1000" />
@@ -118,7 +131,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703737150639</updated>
-      <workItem from="1703737151653" duration="9861000" />
+      <workItem from="1703737151653" duration="10735000" />
+      <workItem from="1703810533129" duration="1855000" />
+      <workItem from="1704283742448" duration="111000" />
     </task>
     <servers />
   </component>
