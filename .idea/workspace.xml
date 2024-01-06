@@ -5,43 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74b04bfc-d685-4bff-8a0f-5a15da8a554a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1247.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1252.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1259.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1267.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1032.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1037.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1075.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1076.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1076.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1085.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1085.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1159.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1159.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1173.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1173.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1212.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1225.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1233.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1233.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1247.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1252.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1259.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1264.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1267.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1268.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1271.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1271.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1284.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1284.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1296.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1296.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Q1297.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Bronze/Q1268.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +57,7 @@
     "Application.Q1259.executor": "Run",
     "Application.Q1264.executor": "Run",
     "Application.Q1267.executor": "Run",
+    "Application.Q1268.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -110,20 +76,7 @@
       <recent name="BaekJun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1267">
-    <configuration name="Q1247" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.Q1247" />
-      <module name="Coding_Test_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q1268">
     <configuration name="Q1252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.Q1252" />
       <module name="Coding_Test_Java" />
@@ -176,13 +129,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q1268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.Bronze.Q1268" />
+      <module name="Coding_Test_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJun.Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1268" />
         <item itemvalue="Application.Q1267" />
         <item itemvalue="Application.Q1264" />
         <item itemvalue="Application.Q1259" />
         <item itemvalue="Application.Q1252" />
-        <item itemvalue="Application.Q1247" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +163,7 @@
       <workItem from="1703737151653" duration="10735000" />
       <workItem from="1703810533129" duration="1855000" />
       <workItem from="1704283742448" duration="245000" />
-      <workItem from="1704345596622" duration="21233000" />
+      <workItem from="1704345596622" duration="26138000" />
     </task>
     <servers />
   </component>
