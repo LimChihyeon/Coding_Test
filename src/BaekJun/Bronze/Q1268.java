@@ -3,10 +3,8 @@ package BaekJun.Bronze;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Objects;
-import java.util.StringTokenizer;
 
-public class Q1268 {
+public class Q1268 { //보류
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
@@ -16,11 +14,12 @@ public class Q1268 {
             student[i] = br.readLine().split(" ");
             cnt[i]="";
         }
-        for(int i = 0 ; i < N ; i++){
-            for(int j = 0; j < N ; j++){
+        for(int i = 0 ; i < N-1 ; i++){
+            for(int j = i+1; j < N ; j++){
                 for(int k = 0 ; k<5 ; k++){
-                    if(student[i][k].equals(student[j][k]) && !cnt[i].contains(Integer.toString(j))){
-                        cnt[i] = cnt[i].concat(Integer.toString(j));
+                    if(student[i][k].equals(student[j][k]) && !cnt[i].contains(Integer.toString(j+1))){
+                        cnt[i] = cnt[i].concat(Integer.toString(j+1));
+                        cnt[j] = cnt[j].concat(Integer.toString(i+1));
                     }
                 }
             }
@@ -33,7 +32,6 @@ public class Q1268 {
                 max = cnt[i].length();
                 maxIndex=i;
             }
-            System.out.println(cnt[i]);
         }
         System.out.println(maxIndex+1);
 
