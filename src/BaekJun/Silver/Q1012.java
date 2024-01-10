@@ -60,6 +60,4 @@ public class Q1012 {
             System.out.println(ans[i]);
         }
     }
-
-
 }
