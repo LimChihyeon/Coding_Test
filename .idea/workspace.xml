@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74b04bfc-d685-4bff-8a0f-5a15da8a554a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJun/Silver/Q1052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Silver/Q1052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaekJun/Silver/Q1058.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJun/Silver/Q1058.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Application.Q1024.executor": "Run",
     "Application.Q1032.executor": "Run",
     "Application.Q1052.executor": "Run",
+    "Application.Q1058.executor": "Run",
     "Application.Q1173.executor": "Run",
     "Application.Q1212.executor": "Run",
     "Application.Q1225.executor": "Run",
@@ -84,7 +85,7 @@
       <recent name="BaekJun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1052">
+  <component name="RunManager" selected="Application.Q1058">
     <configuration name="Q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJun.Silver.Q1012" />
       <module name="Coding_Test_Java" />
@@ -124,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJun.Bronze.Q1292" />
+    <configuration name="Q1058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJun.Silver.Q1058" />
       <module name="Coding_Test_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJun.Bronze.*" />
+          <option name="PATTERN" value="BaekJun.Silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1058" />
         <item itemvalue="Application.Q1052" />
         <item itemvalue="Application.Q1024" />
         <item itemvalue="Application.Q1012" />
         <item itemvalue="Application.Q1296" />
-        <item itemvalue="Application.Q1292" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,7 @@
       <workItem from="1704283742448" duration="245000" />
       <workItem from="1704345596622" duration="39010000" />
       <workItem from="1704689774033" duration="50000" />
-      <workItem from="1704846791900" duration="23894000" />
+      <workItem from="1704846791900" duration="30590000" />
     </task>
     <servers />
   </component>
